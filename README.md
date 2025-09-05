@@ -6,7 +6,7 @@ Este repositório reúne uma coleção de scripts voltados para análise explora
 
 #  Objetivo
 
-Disponibilizar um conjunto organizado de códigos e funções que facilitem a consulta e compreesão dos conceitos estatísticos.
+Disponibilizar um conjunto organizado de códigos e funções que facilitem a consulta e compreensão dos conceitos estatísticos.
 
 ---
 
