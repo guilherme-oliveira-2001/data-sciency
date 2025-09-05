@@ -18,8 +18,8 @@ Disponibilizar um conjunto organizado de códigos e funções que facilitem a co
 - `4-amostragem.py` — Técnicas de amostragem;
 - `5-medidas_separatrizes_e_centrais.py` — Cálculo de média, mediana, moda, quartis, decis e percentis; 
 - `6-distribuicao_normal.py` — Distribuição normal; 
-- `7-testes_normalidade.py` — Testes estatísticos para verificar normalidade (Shapiro-Wilk, Kolmogorov-Smirnov, etc.)  
-- `8-outras_distribuicoes_e_testes.py` — Distribuições T binomial, Poisson e testes estatísticos adicionais  
+- `7-testes_normalidade.py` — Testes estatísticos para verificar normalidade (Shapiro-Wilk e QQPlot); 
+- `8-outras_distribuicoes_e_testes.py` — Distribuições T de Student, binomial, Poisson e mais testes estatísticos;  
 - `9-regressao_linear.py` — Regressão linear simples e múltipla; 
 - `10-analise_combinatoria.py` — Códigos para permutação, arranjo e combinação;  
 - `99-praticando_testando.py` — Praticando algumas funções e gráficos úteis.
